@@ -1,0 +1,10 @@
+Ivanov 50000
+Petrov 30000
+Sidorov 35000
+Frolov 45000
+Serov 18000
+Butov 16000
+Lipov 25000
+Turov 15000
+Durov 32000
+Verov 14000
